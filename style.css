@@ -1,3 +1,37 @@
 body{
-background-color: black;
+    background-image: url(https://www.nkp.hu/tankonyv/tortenelem_6_nat2020//img/_PetheoBalazs_8_Nandorfehervar_ostroma.png?max_width=2048);
+
+    background-color: black;
+}
+.container{
+    background-color: rgb(187, 187, 187);
+    box-shadow: black 30px 10px 30px;
+}
+header{
+    color: rgb(0, 0, 0);
+
+}
+
+li{ 
+    display: inline;
+    color:black ;
+}
+li a{
+    background-color: white;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 14px 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li a:hover{
+    background-color: rgb(82, 82, 82);
+}
+
+h2{
+    text-size-adjust: 10px;
+    color: black;
+}
+
+p{
 }
