@@ -26,6 +26,7 @@ li a{
 
 li a:hover{
     background-color: rgb(82, 82, 82);
+    color: white;
 }
 
 h2{
@@ -33,5 +34,20 @@ h2{
     color: black;
 }
 
+h1{
+    text-shadow: 2px 2px 3px;
+}
+
 p{
+
+}
+
+.zsizi{ text-align: left;
+
+    color: rgb(0, 0, 0);
+}
+
+.lux{
+    border-radius: 20px;
+
 }
