@@ -12,6 +12,7 @@
 body{
     background-image: url(https://www.nkp.hu/tankonyv/tortenelem_10_nat2020//img/86_Reprise_chateau_Buda_1686.jpg?max_width=2048);
     background-size: cover;
+    background-attachment: fixed;
 
 }
 .container{
@@ -34,8 +35,12 @@ li{
     position: relative;
 }
 
-li :hover:after{
+li :hover{
     color: black;
+}
+
+li :hover:after{
+    border-color: black;
     content: '';
     position: absolute;
     width: 100%;
@@ -57,18 +62,21 @@ li :hover::after {
   
 li a{
     color: black;
-    padding: 25px;
+    padding: 35px;
     text-decoration: none;
 }
 
 
-h1{
+
+h1{ 
+    margin-top: 50px;
     font-family: 'humanisticmedium';
     color: white;
     text-align: center;
     position: relative;
-    font-size: 40px;
-    text-shadow: black 3px 3px 3px;
+    font-size: 65px;
+    text-shadow: black 2px 2px 2px;
+    margin-top: 350px;
 }
 h2{
     text-size-adjust: 10px;
@@ -98,4 +106,8 @@ h2{
 
 
 
+}
+
+.video1{
+    margin: 500px;
 }
