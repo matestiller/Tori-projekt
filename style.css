@@ -1,10 +1,18 @@
 
-/*Személyre szabott betűtípus*/
+/*Személyre szabott betűtípusok*/
 
 @font-face {
     font-family: 'humanisticmedium';
     src: url('humanistic-webfont.woff2') format('woff2'),
          url('humanistic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'jsl_ancientnormal';
+    src: url('jancient-webfont.woff2') format('woff2'),
+         url('jancient-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -75,8 +83,8 @@ h1{
     text-align: center;
     position: relative;
     font-size: 65px;
-    text-shadow: black 2px 2px 2px;
-    margin-top: 350px;
+    text-shadow: black 2px 2px 1px;
+    margin-top: 300px;
 }
 h2{
     text-size-adjust: 10px;
@@ -84,30 +92,113 @@ h2{
 }
 
 .kep1{
-    vertical-align:middle;
-    position: relative 30%;
+    float: left;
+    width: 200px;
+    margin-left: 300px;
+    border-radius: 20px;
+    text-shadow: black 3px 3px 3px;
+}
+
+h5{ 
+    margin-top: 40px;
+    padding: 30px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: white;
+    font-family:'jsl_ancientnormal';
+    
+}
+
+
+
+
+.hunyadiszoveg{
+    color: white;
+    font-family:'jsl_ancientnormal' ;
 }
 
 .zsiziszoveg{ 
     font-size: larger;
     text-align: left;
-    font-family:'Times New Roman', Times, serif;
-    color: rgb(0, 0, 0);
+    font-family:'jsl_ancientnormal';
+    color: rgb(255, 255, 255);
     position: relative;left: 10px;top: 30px;
 
 }
 
+.fooldalkep{
+    border-radius: 30px;
+
+
+}
+.wraper{
+    width: 100%;
+ }
+ .one, .two{
+    font-size: 50px;
+    color: white;
+    font-family:'humanisticmedium';
+    display:block;
+    width: 50%;
+    padding-left: 200px;
+
+ }
+ .one{
+
+    float:left ;
+  
+ }
+ .two{
+    float:right;
+
+ }
+ 
+ .column a:hover{
+
+ } 
+.column {
+    margin-top: 150px;
+    float: left;
+    width: 50%;
+padding-left: 220px;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
 
 .csatakszoveg{
     font-size: larger;
-    font-family:'Times New Roman', Times, serif;
+    font-family:'jsl_ancientnormal';
     color: rgb(0, 0, 0);
     position: relative;top: 30px;
+}
 
+.marosszoveg{
+    color: white;
+    font-family:'jsl_ancientnormal';
+}
 
+.varnaiszoveg{
+    color:white;
+    font-family: 'jsl_ancientnormal';
+}
 
+.hosszuszoveg{
+    color: white;
+    font-family: 'jsl_ancientnormal';
 }
 
 .video1{
     margin: 500px;
+
 }
+
