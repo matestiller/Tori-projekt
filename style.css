@@ -171,6 +171,8 @@ padding-left: 350px;
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .marosszoveg{
@@ -183,6 +185,8 @@ padding-left: 350px;
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .varnaiszoveg{
@@ -195,6 +199,8 @@ padding-left: 350px;
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .hosszuszoveg{
@@ -207,23 +213,11 @@ padding-left: 350px;
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .hunyadiszoveg{
-    border-color: white 3px 1px 3px;
-    border-style: double;
-    text-align: left;
-    color: white;
-    font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
-    margin-top: 50px;
-    margin-left: 20%;
-    margin-right: 20%;
-
-
-}
-
-.zsiziszoveg{
     border-color: white 3px 1px 3px;
     border-style: double;
     text-align: center;
@@ -233,8 +227,30 @@ padding-left: 350px;
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+
 
 }
+
+.zsiziszoveg{
+    border-color: white 3px 1px 3px;
+    border-style: double;
+    text-align: left;
+    color: white;
+    font-family:'jsl_ancientnormal';
+    background-color: rgb(51, 51, 51);
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
 .video1{
     margin: 200px;
 
@@ -287,3 +303,4 @@ padding-left: 350px;
 
 
 }
+
