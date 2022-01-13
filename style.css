@@ -173,6 +173,7 @@ padding-left: 350px;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 .marosszoveg{
@@ -187,6 +188,7 @@ padding-left: 350px;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 .varnaiszoveg{
@@ -201,6 +203,7 @@ padding-left: 350px;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 .hosszuszoveg{
@@ -215,6 +218,7 @@ padding-left: 350px;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 .hunyadiszoveg{
@@ -223,12 +227,13 @@ padding-left: 350px;
     text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(161, 131, 131);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 
 
 }
@@ -245,6 +250,7 @@ padding-left: 350px;
     margin-right: 20%;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 20px;
 }
 
 h3{
