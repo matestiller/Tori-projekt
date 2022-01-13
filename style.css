@@ -21,7 +21,6 @@ body{
     background-image: url(https://www.nkp.hu/tankonyv/tortenelem_10_nat2020//img/86_Reprise_chateau_Buda_1686.jpg?max_width=2048);
     background-size: cover;
     background-attachment: fixed;
-
 }
 .container{
     background-color: rgb(255, 255, 255);
@@ -83,7 +82,7 @@ h1{
     text-align: center;
     position: relative;
     font-size: 65px;
-    text-shadow: black 2px 2px 1px;
+    text-shadow: black 1px 1px 3px;
     margin-top: 300px;
 }
 h2{
@@ -167,7 +166,7 @@ padding-left: 350px;
     text-align: center;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
@@ -182,7 +181,7 @@ padding-left: 350px;
     text-align: center;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
@@ -197,7 +196,7 @@ padding-left: 350px;
     text-align: center;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
@@ -212,7 +211,7 @@ padding-left: 350px;
     text-align: center;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
@@ -227,7 +226,7 @@ padding-left: 350px;
     text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(161, 131, 131);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
@@ -244,7 +243,7 @@ padding-left: 350px;
     text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(51, 51, 51, 0.9);
     margin-top: 50px;
     margin-left: 20%;
     margin-right: 20%;
