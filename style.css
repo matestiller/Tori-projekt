@@ -178,7 +178,7 @@ padding-left: 350px;
 .marosszoveg{
     border-color: white 3px 1px 3px;
     border-style: double;
-    text-align: center;
+    text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
     background-color: rgb(51, 51, 51, 0.9);
@@ -193,7 +193,7 @@ padding-left: 350px;
 .varnaiszoveg{
     border-color: white 3px 1px 3px;
     border-style: double;
-    text-align: center;
+    text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
     background-color: rgb(51, 51, 51, 0.9);
@@ -208,7 +208,7 @@ padding-left: 350px;
 .hosszuszoveg{
     border-color: white 3px 1px 3px;
     border-style: double;
-    text-align: center;
+    text-align: left;
     color: white;
     font-family:'jsl_ancientnormal';
     background-color: rgb(51, 51, 51, 0.9);
@@ -312,5 +312,5 @@ h3{
 
 
 iframe{
-    text-align: center;
+    margin
 }
