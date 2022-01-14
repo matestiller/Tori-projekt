@@ -82,7 +82,7 @@ h1{
     text-align: center;
     position: relative;
     font-size: 65px;
-    text-shadow: black 1px 1px 3px;
+    text-shadow: 2px 2px 8px black;
     margin-top: 300px;
 }
 h2{
