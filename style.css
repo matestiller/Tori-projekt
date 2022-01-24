@@ -258,7 +258,10 @@ h3{
 }
 
 .video1{
-    margin: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+    
 }
 
 #myBtn {
@@ -311,14 +314,18 @@ h3{
 
 
 iframe{
-    margin-left: 28%;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 50px;
+   margin-bottom: 50px;   
 }
 
 .kepek{
     display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
   width: 65%;
       
 }
